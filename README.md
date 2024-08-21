@@ -1,2 +1,2 @@
-# gohello
+# Hello GO
 Golang Hello World
